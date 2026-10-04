@@ -1,0 +1,9 @@
+{
+    "target": "127.0.0.1",
+    "ports": "8000-8100",
+    "scan_type": "tcp_connect",
+    "port": 8080,
+    "count": 10,
+    "scan_rounds": 5,
+    "delay_between_rounds": 2
+}
